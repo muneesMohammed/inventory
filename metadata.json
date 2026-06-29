@@ -1,0 +1,6 @@
+{
+  "name": "Dubai Free Zone Inventory & Trade Manager",
+  "description": "Comprehensive import-export inventory manager for Dubai Free Zone warehouses, featuring detailed HS code classification, automated customs declaration filing, and advanced trade analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
